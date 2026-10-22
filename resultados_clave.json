@@ -1,0 +1,26 @@
+{
+  "mes_backtest": "2026-08",
+  "capacidad_gestor": 350,
+  "gini_preventivo_oot": 0.468,
+  "gini_roleo_oot": 0.586,
+  "gini_cura_oot": 0.602,
+  "perdida_evitada_tradicional": 35256906.85104722,
+  "perdida_evitada_modelo": 53970043.49789178,
+  "mejora_perdida_evitada": 0.530765127125403,
+  "captura_350_modelo": 0.49275334930254894,
+  "captura_350_tradicional": 0.2905560424210833,
+  "pct_sin_humano_modelo": 0.7944803288314739,
+  "pct_sin_humano_tradicional": 0.45904173106646057,
+  "roll_rates": {
+    "Al día": 0.027781904620413016,
+    "1-30": 0.26148303812668866,
+    "31-60": 0.49434571890145396,
+    "61-90": 0.5976744186046512
+  },
+  "pd12": {
+    "Al día": 0.04351756233445806,
+    "1-30": 0.2377814878435324,
+    "31-60": 0.6104487691293066,
+    "61-90": 0.8687194764230688
+  }
+}
